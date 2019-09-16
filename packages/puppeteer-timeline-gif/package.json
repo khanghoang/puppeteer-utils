@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer-timeline-gif",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "puppeteer-pool": "^1.0.0",
+    "snapline": "^0.0.2"
+  }
+}
