@@ -1,6 +1,6 @@
 {
   "name": "jest-imgur-reporter",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "imgur": "^0.3.1",
-    "puppet-pool": "^0.0.4"
+    "puppet-pool": "^0.0.5"
   },
   "scripts": {
     "test": "jest"
