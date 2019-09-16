@@ -1,11 +1,11 @@
 {
   "name": "puppet-timeline-gif",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "fs-extra": "^8.1.0",
-    "puppet-pool": "^0.0.3",
+    "puppet-pool": "^0.0.4",
     "snapline": "^0.0.2",
     "uuid": "^3.3.3"
   }
