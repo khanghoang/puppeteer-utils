@@ -6,6 +6,7 @@
   "dependencies": {
     "fs-extra": "^8.1.0",
     "puppet-pool": "^0.0.3",
-    "snapline": "^0.0.2"
+    "snapline": "^0.0.2",
+    "uuid": "^3.3.3"
   }
 }
