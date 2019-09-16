@@ -13,6 +13,7 @@ module.exports = {
         const tempPath = os.tmpdir();
         const filePath = resolve(tempPath, `${uuidv1()}.json`);
         await page.tracing.start({ path: filePath, screenshots: true });
+
         return {
             endCapture: async () => {
                 await page.tracing.stop();
