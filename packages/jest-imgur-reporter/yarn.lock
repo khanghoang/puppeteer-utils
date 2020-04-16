@@ -1435,9 +1435,9 @@ http-signature@~1.2.0:
     sshpk "^1.7.0"
 
 https-proxy-agent@^2.2.1:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/https-proxy-agent/-/https-proxy-agent-2.2.2.tgz#271ea8e90f836ac9f119daccd39c19ff7dfb0793"
-  integrity sha512-c8Ndjc9Bkpfx/vCJueCPy0jlP4ccCCSNDp8xwCZzPjKJUm+B+u9WX2x98Qx4n1PiMNTWo3D7KK5ifNV/yJyRzg==
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/https-proxy-agent/-/https-proxy-agent-2.2.4.tgz#4ee7a737abd92678a293d9b34a1af4d0d08c787b"
+  integrity sha512-OmvfoQ53WLjtA9HeYP9RNrWMJzzAz1JGaSFr1nijg0PVR1JaD/xbJq1mdEIIlxGpXp9eSe/O2LgU9DJmTPd0Eg==
   dependencies:
     agent-base "^4.3.0"
     debug "^3.1.0"
@@ -2832,10 +2832,10 @@ punycode@^2.1.0, punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
-puppet-pool@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/puppet-pool/-/puppet-pool-0.0.4.tgz#09c1610abf4683d0e02d1f39b524652cf204e354"
-  integrity sha512-Cm+6GzCoE72GLkOhoBw+u0qjJrtO3FQ6ey55GILhgitTTvpO1cG6T3o1H7+9p9fJ3TApWgHez/gjzMwzjeFTvQ==
+puppet-pool@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/puppet-pool/-/puppet-pool-0.1.1.tgz#d98b892f8a7f5b51a88b0f13e8af53e7a16964a0"
+  integrity sha512-MU3J1U4yVH3ytsBjGyZEbW+c6Frhj9X6MtRxG46iUvHdLJ4XnqqZf3owF8156Tj/te4ak5PQwNFAhQLka1Z7nw==
   dependencies:
     generic-pool "^3.7.1"
 
