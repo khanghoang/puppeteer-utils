@@ -315,10 +315,10 @@ pinkie@^2.0.0:
   resolved "https://registry.yarnpkg.com/pinkie/-/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
   integrity sha1-clVrgM+g1IqXToDnckjoDtT3+HA=
 
-puppet-pool@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/puppet-pool/-/puppet-pool-0.0.3.tgz#7df80c1893e26ba7758e08840b47fc2c5cc6e510"
-  integrity sha512-vVs7pnGJrMBhOld0RbmnQRJ/dppy+EicRb8ED00VgH6bRvA4jnDD3aCb+XS8sLM4xjVdJAEnE+U4A89jbn2KAQ==
+puppet-pool@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/puppet-pool/-/puppet-pool-0.1.1.tgz#d98b892f8a7f5b51a88b0f13e8af53e7a16964a0"
+  integrity sha512-MU3J1U4yVH3ytsBjGyZEbW+c6Frhj9X6MtRxG46iUvHdLJ4XnqqZf3owF8156Tj/te4ak5PQwNFAhQLka1Z7nw==
   dependencies:
     generic-pool "^3.7.1"
 
@@ -486,9 +486,9 @@ wrappy@1:
   integrity sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8=
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 yargs-parser@^2.4.1:
   version "2.4.1"
