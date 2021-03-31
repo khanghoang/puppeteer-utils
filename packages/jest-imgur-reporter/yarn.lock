@@ -2832,10 +2832,10 @@ punycode@^2.1.0, punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
-puppet-pool@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/puppet-pool/-/puppet-pool-0.0.4.tgz#09c1610abf4683d0e02d1f39b524652cf204e354"
-  integrity sha512-Cm+6GzCoE72GLkOhoBw+u0qjJrtO3FQ6ey55GILhgitTTvpO1cG6T3o1H7+9p9fJ3TApWgHez/gjzMwzjeFTvQ==
+puppet-pool@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/puppet-pool/-/puppet-pool-0.1.1.tgz#d98b892f8a7f5b51a88b0f13e8af53e7a16964a0"
+  integrity sha512-MU3J1U4yVH3ytsBjGyZEbW+c6Frhj9X6MtRxG46iUvHdLJ4XnqqZf3owF8156Tj/te4ak5PQwNFAhQLka1Z7nw==
   dependencies:
     generic-pool "^3.7.1"
 
@@ -3696,9 +3696,9 @@ xml-name-validator@^3.0.0:
   integrity sha512-A5CUptxDsvxKJEU3yO6DuWBSJz/qizqzJKOMIfUJHETbBw/sFaDxgd6fxm1ewUaM0jZ444Fc5vC5ROYurg/4Pw==
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#8db2b83c31c5d75099bb890b23f3094891e247d4"
+  integrity sha512-wNcy4NvjMYL8gogWWYAO7ZFWFfHcbdbE57tZO8e4cbpj8tfUcwrwqSl3ad8HxpYWCdXcJUCeKKZS62Av1affwQ==
 
 yallist@^3.0.0, yallist@^3.0.3:
   version "3.0.3"
