@@ -2249,9 +2249,9 @@ lodash.sortby@^4.7.0:
   integrity sha1-7dFMgk4sycHgsKG0K7UhBRakJDg=
 
 lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.4:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 loose-envify@^1.0.0:
   version "1.4.0"
@@ -2832,10 +2832,10 @@ punycode@^2.1.0, punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
-puppet-pool@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/puppet-pool/-/puppet-pool-0.0.4.tgz#09c1610abf4683d0e02d1f39b524652cf204e354"
-  integrity sha512-Cm+6GzCoE72GLkOhoBw+u0qjJrtO3FQ6ey55GILhgitTTvpO1cG6T3o1H7+9p9fJ3TApWgHez/gjzMwzjeFTvQ==
+puppet-pool@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/puppet-pool/-/puppet-pool-0.1.1.tgz#d98b892f8a7f5b51a88b0f13e8af53e7a16964a0"
+  integrity sha512-MU3J1U4yVH3ytsBjGyZEbW+c6Frhj9X6MtRxG46iUvHdLJ4XnqqZf3owF8156Tj/te4ak5PQwNFAhQLka1Z7nw==
   dependencies:
     generic-pool "^3.7.1"
 
