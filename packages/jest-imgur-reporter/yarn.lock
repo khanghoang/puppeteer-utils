@@ -879,9 +879,9 @@ decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-extend@^0.6.0:
   version "0.6.0"
@@ -2832,10 +2832,10 @@ punycode@^2.1.0, punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
-puppet-pool@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/puppet-pool/-/puppet-pool-0.0.4.tgz#09c1610abf4683d0e02d1f39b524652cf204e354"
-  integrity sha512-Cm+6GzCoE72GLkOhoBw+u0qjJrtO3FQ6ey55GILhgitTTvpO1cG6T3o1H7+9p9fJ3TApWgHez/gjzMwzjeFTvQ==
+puppet-pool@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/puppet-pool/-/puppet-pool-0.1.1.tgz#d98b892f8a7f5b51a88b0f13e8af53e7a16964a0"
+  integrity sha512-MU3J1U4yVH3ytsBjGyZEbW+c6Frhj9X6MtRxG46iUvHdLJ4XnqqZf3owF8156Tj/te4ak5PQwNFAhQLka1Z7nw==
   dependencies:
     generic-pool "^3.7.1"
 
